@@ -1,1 +1,2 @@
 # tomcatcoyote
+主要是为了解决Tomcat6大版本的可通过HTTP获取远端WWW服务信息漏洞.
